@@ -210,7 +210,7 @@
           <bnd><![CDATA[
           Import-Package: \
 	          *
-	        -exportcontents: !*impl, !examples, *
+	        -exportcontents: !examples, *
           ]]></bnd>
         </configuration>
       </plugin>
